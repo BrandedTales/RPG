@@ -1,0 +1,3031 @@
+fileFormatVersion: 2
+guid: e74b9b4f7f431d04c89c1fcc6b4f659a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5353918718221301324
+    second: Medieval_T&C_Update_ObjectClumps_0
+  - first:
+      213: 4470535608830956279
+    second: Medieval_T&C_Update_ObjectClumps_1
+  - first:
+      213: 3932131148057091296
+    second: Medieval_T&C_Update_ObjectClumps_2
+  - first:
+      213: 9059606373908220626
+    second: Medieval_T&C_Update_ObjectClumps_3
+  - first:
+      213: -7498988235841883151
+    second: Medieval_T&C_Update_ObjectClumps_4
+  - first:
+      213: -8853380078335571125
+    second: Medieval_T&C_Update_ObjectClumps_5
+  - first:
+      213: 9013663997631207020
+    second: Medieval_T&C_Update_ObjectClumps_6
+  - first:
+      213: 2565270390540746984
+    second: Medieval_T&C_Update_ObjectClumps_7
+  - first:
+      213: 3708314023579475488
+    second: Medieval_T&C_Update_ObjectClumps_8
+  - first:
+      213: -7900599663703881774
+    second: Medieval_T&C_Update_ObjectClumps_9
+  - first:
+      213: 4505461439558319238
+    second: Medieval_T&C_Update_ObjectClumps_10
+  - first:
+      213: -9100808487615315876
+    second: Medieval_T&C_Update_ObjectClumps_11
+  - first:
+      213: -1186833363946327810
+    second: Medieval_T&C_Update_ObjectClumps_12
+  - first:
+      213: 5170159934446313522
+    second: Medieval_T&C_Update_ObjectClumps_13
+  - first:
+      213: -1500340463183932020
+    second: Medieval_T&C_Update_ObjectClumps_14
+  - first:
+      213: 8465265405881789214
+    second: Medieval_T&C_Update_ObjectClumps_15
+  - first:
+      213: -5865203132263057862
+    second: Medieval_T&C_Update_ObjectClumps_16
+  - first:
+      213: 4823087683265819449
+    second: Medieval_T&C_Update_ObjectClumps_17
+  - first:
+      213: 2648470905492845724
+    second: Medieval_T&C_Update_ObjectClumps_18
+  - first:
+      213: -2372712578319547771
+    second: Medieval_T&C_Update_ObjectClumps_19
+  - first:
+      213: 8071740378490611945
+    second: Medieval_T&C_Update_ObjectClumps_20
+  - first:
+      213: 4402823306093580712
+    second: Medieval_T&C_Update_ObjectClumps_21
+  - first:
+      213: -8915672090094149956
+    second: Medieval_T&C_Update_ObjectClumps_22
+  - first:
+      213: 2994071375253799016
+    second: Medieval_T&C_Update_ObjectClumps_23
+  - first:
+      213: 1326252667015058557
+    second: Medieval_T&C_Update_ObjectClumps_24
+  - first:
+      213: -7135757684143466754
+    second: Medieval_T&C_Update_ObjectClumps_25
+  - first:
+      213: 7827969918895290099
+    second: Medieval_T&C_Update_ObjectClumps_26
+  - first:
+      213: -4984116476590144320
+    second: Medieval_T&C_Update_ObjectClumps_27
+  - first:
+      213: 1295735764395506734
+    second: Medieval_T&C_Update_ObjectClumps_28
+  - first:
+      213: 8863670643633824411
+    second: Medieval_T&C_Update_ObjectClumps_29
+  - first:
+      213: 4623236968950044463
+    second: Medieval_T&C_Update_ObjectClumps_30
+  - first:
+      213: -4278758990878015424
+    second: Medieval_T&C_Update_ObjectClumps_31
+  - first:
+      213: 1463074899534731830
+    second: Medieval_T&C_Update_ObjectClumps_32
+  - first:
+      213: -3719672063527879587
+    second: Medieval_T&C_Update_ObjectClumps_33
+  - first:
+      213: -7117074151307456770
+    second: Medieval_T&C_Update_ObjectClumps_34
+  - first:
+      213: 5883435239033815101
+    second: Medieval_T&C_Update_ObjectClumps_35
+  - first:
+      213: 7120809825201820830
+    second: Medieval_T&C_Update_ObjectClumps_36
+  - first:
+      213: 7617340748607489061
+    second: Medieval_T&C_Update_ObjectClumps_37
+  - first:
+      213: -2778356915314979226
+    second: Medieval_T&C_Update_ObjectClumps_38
+  - first:
+      213: -2210062272434691019
+    second: Medieval_T&C_Update_ObjectClumps_39
+  - first:
+      213: -8244759295480290753
+    second: Medieval_T&C_Update_ObjectClumps_40
+  - first:
+      213: -8185070117203259915
+    second: Medieval_T&C_Update_ObjectClumps_41
+  - first:
+      213: 9002029628530845516
+    second: Medieval_T&C_Update_ObjectClumps_42
+  - first:
+      213: -7093518420224463807
+    second: Medieval_T&C_Update_ObjectClumps_43
+  - first:
+      213: 1083841203496187558
+    second: Medieval_T&C_Update_ObjectClumps_44
+  - first:
+      213: -4448000391786805859
+    second: Medieval_T&C_Update_ObjectClumps_45
+  - first:
+      213: -7602361137403545999
+    second: Medieval_T&C_Update_ObjectClumps_46
+  - first:
+      213: -5828287087183957214
+    second: Medieval_T&C_Update_ObjectClumps_47
+  - first:
+      213: 4062226171466711833
+    second: Medieval_T&C_Update_ObjectClumps_48
+  - first:
+      213: -6409387471684926384
+    second: Medieval_T&C_Update_ObjectClumps_49
+  - first:
+      213: -7472977714826273267
+    second: Medieval_T&C_Update_ObjectClumps_50
+  - first:
+      213: -3861451197994627601
+    second: Medieval_T&C_Update_ObjectClumps_51
+  - first:
+      213: -4712985493102174523
+    second: Medieval_T&C_Update_ObjectClumps_52
+  - first:
+      213: 145610330648917934
+    second: Medieval_T&C_Update_ObjectClumps_53
+  - first:
+      213: -8108546723760635796
+    second: Medieval_T&C_Update_ObjectClumps_54
+  - first:
+      213: -515719575277569421
+    second: Medieval_T&C_Update_ObjectClumps_55
+  - first:
+      213: -4709222468216887159
+    second: Medieval_T&C_Update_ObjectClumps_56
+  - first:
+      213: 2330646498206804482
+    second: Medieval_T&C_Update_ObjectClumps_57
+  - first:
+      213: 3348671795707928268
+    second: Medieval_T&C_Update_ObjectClumps_58
+  - first:
+      213: 7284169580970963819
+    second: Medieval_T&C_Update_ObjectClumps_59
+  - first:
+      213: 3550759940950220511
+    second: Medieval_T&C_Update_ObjectClumps_60
+  - first:
+      213: -944601755120606845
+    second: Medieval_T&C_Update_ObjectClumps_61
+  - first:
+      213: 948228450625349649
+    second: Medieval_T&C_Update_ObjectClumps_62
+  - first:
+      213: -4307617768452440960
+    second: Medieval_T&C_Update_ObjectClumps_63
+  - first:
+      213: 2398637263769485447
+    second: Medieval_T&C_Update_ObjectClumps_64
+  - first:
+      213: -4290824241487534228
+    second: Medieval_T&C_Update_ObjectClumps_65
+  - first:
+      213: 9072934929169352685
+    second: Medieval_T&C_Update_ObjectClumps_66
+  - first:
+      213: -109097048132459949
+    second: Medieval_T&C_Update_ObjectClumps_67
+  - first:
+      213: 8728907641303965018
+    second: Medieval_T&C_Update_ObjectClumps_68
+  - first:
+      213: -4652416001042709043
+    second: Medieval_T&C_Update_ObjectClumps_69
+  - first:
+      213: 1820627824668177653
+    second: Medieval_T&C_Update_ObjectClumps_70
+  - first:
+      213: 3709562361565044539
+    second: Medieval_T&C_Update_ObjectClumps_71
+  - first:
+      213: -2595490239435051487
+    second: Medieval_T&C_Update_ObjectClumps_72
+  - first:
+      213: -229232186732865576
+    second: Medieval_T&C_Update_ObjectClumps_73
+  - first:
+      213: -3598191943272175031
+    second: Medieval_T&C_Update_ObjectClumps_74
+  - first:
+      213: 2717930576990157525
+    second: Medieval_T&C_Update_ObjectClumps_75
+  - first:
+      213: 8838544645371168772
+    second: Medieval_T&C_Update_ObjectClumps_76
+  - first:
+      213: 1106092782394942319
+    second: Medieval_T&C_Update_ObjectClumps_77
+  - first:
+      213: -1499824214831342136
+    second: Medieval_T&C_Update_ObjectClumps_78
+  - first:
+      213: 7382854591242581740
+    second: Medieval_T&C_Update_ObjectClumps_79
+  - first:
+      213: -205296712947918283
+    second: Medieval_T&C_Update_ObjectClumps_80
+  - first:
+      213: -2167946155239803746
+    second: Medieval_T&C_Update_ObjectClumps_81
+  - first:
+      213: -8628794272209707295
+    second: Medieval_T&C_Update_ObjectClumps_82
+  - first:
+      213: -2429482643534006041
+    second: Medieval_T&C_Update_ObjectClumps_83
+  - first:
+      213: 4674833089935749649
+    second: Medieval_T&C_Update_ObjectClumps_84
+  - first:
+      213: -5816349845210782137
+    second: Medieval_T&C_Update_ObjectClumps_85
+  - first:
+      213: -1102042558259178104
+    second: Medieval_T&C_Update_ObjectClumps_86
+  - first:
+      213: 8083335383481017525
+    second: Medieval_T&C_Update_ObjectClumps_87
+  - first:
+      213: 4628659890202028179
+    second: Medieval_T&C_Update_ObjectClumps_88
+  - first:
+      213: 204493302346048915
+    second: Medieval_T&C_Update_ObjectClumps_89
+  - first:
+      213: -8583500217460032249
+    second: Medieval_T&C_Update_ObjectClumps_90
+  - first:
+      213: 6725741829609083178
+    second: Medieval_T&C_Update_ObjectClumps_91
+  - first:
+      213: 2411484347955686201
+    second: Medieval_T&C_Update_ObjectClumps_92
+  - first:
+      213: -2759059353312410490
+    second: Medieval_T&C_Update_ObjectClumps_93
+  - first:
+      213: 369476826340118578
+    second: Medieval_T&C_Update_ObjectClumps_94
+  - first:
+      213: -1404554950695500576
+    second: Medieval_T&C_Update_ObjectClumps_95
+  - first:
+      213: 5891223942479716433
+    second: Medieval_T&C_Update_ObjectClumps_96
+  - first:
+      213: -6412728482355214622
+    second: Medieval_T&C_Update_ObjectClumps_97
+  - first:
+      213: 3521318491339568059
+    second: Medieval_T&C_Update_ObjectClumps_98
+  - first:
+      213: -3647082058165239696
+    second: Medieval_T&C_Update_ObjectClumps_99
+  - first:
+      213: -7703757262615137172
+    second: Medieval_T&C_Update_ObjectClumps_100
+  - first:
+      213: -3939632651050426600
+    second: Medieval_T&C_Update_ObjectClumps_101
+  - first:
+      213: 5653066584770250240
+    second: Medieval_T&C_Update_ObjectClumps_102
+  - first:
+      213: 5673838567192638484
+    second: Medieval_T&C_Update_ObjectClumps_103
+  - first:
+      213: 9217531446383695969
+    second: Medieval_T&C_Update_ObjectClumps_104
+  - first:
+      213: -7277490045766137359
+    second: Medieval_T&C_Update_ObjectClumps_105
+  - first:
+      213: 1621762780128321463
+    second: Medieval_T&C_Update_ObjectClumps_106
+  - first:
+      213: 5671021040949945806
+    second: Medieval_T&C_Update_ObjectClumps_107
+  - first:
+      213: 6811617758609364765
+    second: Medieval_T&C_Update_ObjectClumps_108
+  - first:
+      213: 8913184088394130136
+    second: Medieval_T&C_Update_ObjectClumps_109
+  - first:
+      213: 1305653613952521989
+    second: Medieval_T&C_Update_ObjectClumps_110
+  - first:
+      213: 3393318661549960280
+    second: Medieval_T&C_Update_ObjectClumps_111
+  - first:
+      213: 2585573740824482662
+    second: Medieval_T&C_Update_ObjectClumps_112
+  - first:
+      213: -1093456302202722092
+    second: Medieval_T&C_Update_ObjectClumps_113
+  - first:
+      213: -2611242213804231120
+    second: Medieval_T&C_Update_ObjectClumps_114
+  - first:
+      213: 7846343028249130287
+    second: Medieval_T&C_Update_ObjectClumps_115
+  - first:
+      213: -7247605060925027469
+    second: Medieval_T&C_Update_ObjectClumps_116
+  - first:
+      213: 7344667472637796801
+    second: Medieval_T&C_Update_ObjectClumps_117
+  - first:
+      213: 7433888087143096200
+    second: Medieval_T&C_Update_ObjectClumps_118
+  - first:
+      213: 8283090924967170699
+    second: Medieval_T&C_Update_ObjectClumps_119
+  - first:
+      213: 350806147305669606
+    second: Medieval_T&C_Update_ObjectClumps_120
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 627
+        width: 46
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67efb154a8d768a4ab7fb759d356187d
+      internalID: -5353918718221301324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 690
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df5a61b1cd4d1d4891a1b20b8becc7a
+      internalID: 4470535608830956279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 630
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48eeed64abe5c34409e1aaf00f3b541f
+      internalID: 3932131148057091296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_3
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 678
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82ec527ed4921943b032c93bde0567e
+      internalID: 9059606373908220626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_4
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 679
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951c74480b49da0419ea50910a763260
+      internalID: -7498988235841883151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_5
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 672
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3858f43ff1fcd46a6b83308ff58ae5
+      internalID: -8853380078335571125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_6
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 669
+        width: 92
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61e3c0733330e149ab6cc8a01370175
+      internalID: 9013663997631207020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_7
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 672
+        width: 83
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1751025daa2d45e44aab54e3561ca1ea
+      internalID: 2565270390540746984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_8
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 672
+        width: 86
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3ecd5fa32717447ae71ae2e41301df
+      internalID: 3708314023579475488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 631
+        width: 84
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28170ad1b5288941aa8a8ea0d2a1101
+      internalID: -7900599663703881774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_10
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 578
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb87de4ed1265ff43a41d95592493f00
+      internalID: 4505461439558319238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_11
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 562
+        width: 187
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e70b81ffaf088044b0739e378f12a26
+      internalID: -9100808487615315876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_12
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 582
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46db8dd740c4b1c4584917b9c8a2bb55
+      internalID: -1186833363946327810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_13
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 576
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d6bc9fcb84bf643af70b07deba53b4
+      internalID: 5170159934446313522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 537
+        width: 88
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa015c4cf80893c4bbe0fb712566dc0e
+      internalID: -1500340463183932020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_15
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 588
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfd966e3ac45e1498aefe27f69038e2
+      internalID: 8465265405881789214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_16
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 533
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709eb56f66325a149841d53ad593ea1d
+      internalID: -5865203132263057862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 535
+        width: 97
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151b61cac05689d49b2446d15668e13c
+      internalID: 4823087683265819449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_18
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 380
+        width: 130
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3860c29d7aebc4d8a40d27c02ff48c
+      internalID: 2648470905492845724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_19
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 381
+        width: 140
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71335706594cb747ba9d1a4e6c21282
+      internalID: -2372712578319547771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_20
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 384
+        width: 90
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedc3d24beb201c47a598bbcd7fbfe2e
+      internalID: 8071740378490611945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 477
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ff2cda53a7aa44494e2168b4dd387b
+      internalID: 4402823306093580712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 484
+        width: 93
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0487626c48e450b4fa9608f35735f8bb
+      internalID: -8915672090094149956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_23
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 243
+        width: 31
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f130d3fd2f8235b42b73ed568d0a16d9
+      internalID: 2994071375253799016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 243
+        width: 24
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da77d054b89c134bb6e1709df34096d
+      internalID: 1326252667015058557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 243
+        width: 39
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c71ab1d0de8a544b851f416c27126f9
+      internalID: -7135757684143466754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f53779bba969c428ffbeeeea9130bd
+      internalID: 7827969918895290099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_27
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 321
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fae2f6877103ab448406fc6248b2907
+      internalID: -4984116476590144320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_28
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 322
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5754937d8050c44285805bb89d5bad5
+      internalID: 1295735764395506734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_29
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 0
+        width: 389
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834941789a547da4eb985e3e1afc7a10
+      internalID: 8863670643633824411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_30
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 223
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81eb1df9bb574ef40a0abe2c884df252
+      internalID: 4623236968950044463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 210
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493be95758baf1348a95278426c54b01
+      internalID: -4278758990878015424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_32
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 213
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455a56765d4d81e409c2ac2b7fb24a5e
+      internalID: 1463074899534731830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_33
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 183
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc3bf434efe9b84e9efdd1ad098ac8a
+      internalID: -3719672063527879587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_34
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 205
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2076980df874b5459ba74f882708c04
+      internalID: -7117074151307456770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_35
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 205
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb0207232831bd4b8650ecad6b814e9
+      internalID: 5883435239033815101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_36
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 201
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f91e440c04bb94dbde71f531f99b3c
+      internalID: 7120809825201820830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_37
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 201
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e994fe20428506949b943ac8c61482ca
+      internalID: 7617340748607489061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_38
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 197
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6aae21c0f5dadf49bf550cb49a2c571
+      internalID: -2778356915314979226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_39
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 195
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26f506c3eab85549bead32739e67a88
+      internalID: -2210062272434691019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_40
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 175
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e53f6ddefb5afd41b7b1cb6801cdd1b
+      internalID: -8244759295480290753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_41
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 195
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d73661c071add547b0d876cbbe893e1
+      internalID: -8185070117203259915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_42
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 156
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655fbdb4db62edc409b72fe63bbe5670
+      internalID: 9002029628530845516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_43
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 195
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302878d3037a63e4f85af45f6eadc8a7
+      internalID: -7093518420224463807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_44
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 175
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db836b9e240f20e42bda06bde72b515d
+      internalID: 1083841203496187558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_45
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 195
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d111ceb514c46354497402b872118696
+      internalID: -4448000391786805859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_46
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 182
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463cea9cf09c3784d98e33a06ab7cdeb
+      internalID: -7602361137403545999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_47
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 177
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a72ca757c8013f4bb82bddcba5327af
+      internalID: -5828287087183957214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_48
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 179
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d5a41b463f8f74d8ada811faf5a1da
+      internalID: 4062226171466711833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_49
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 167
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f07f65b0870bec44a341120a73808a6
+      internalID: -6409387471684926384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_50
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 172
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1dbc0ac01be404289b0e8927d9feb7
+      internalID: -7472977714826273267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_51
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 173
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8e9592d6c5a0b4a9aa3ef8c83fdcb5
+      internalID: -3861451197994627601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_52
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 159
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b001388c3e9a394f9c91f744c576da7
+      internalID: -4712985493102174523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_53
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 135
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0aca0151c4542e4da09a0fcc6b5798b
+      internalID: 145610330648917934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_54
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 157
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7baa60faed655a4885fc286994f3c4c
+      internalID: -8108546723760635796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_55
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 129
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff429300a48f414baeda29c0e02bd17
+      internalID: -515719575277569421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_56
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 142
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b05681133920740983eb435d9f5775
+      internalID: -4709222468216887159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_57
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 152
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acf59c5aa9b0544bad703c43acfe275
+      internalID: 2330646498206804482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_58
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 127
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8272550c9e2204f47914a154fdba4de4
+      internalID: 3348671795707928268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_59
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 147
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34077885495688448b337d06583d2a21
+      internalID: 7284169580970963819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_60
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 147
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec3e0e5845c27849a700173a8377c64
+      internalID: 3550759940950220511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_61
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 139
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1620bb57a6644e4cb9b6328fb09a03e
+      internalID: -944601755120606845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_62
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 131
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539074ff404d56545bdd63ec979d4315
+      internalID: 948228450625349649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_63
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 125
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea2c8fe1dbaa2c4da390c83fcf209f9
+      internalID: -4307617768452440960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_64
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 109
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8351be5bc812a45b4eca17ab676227
+      internalID: 2398637263769485447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_65
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 130
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d7b2e3efcfb9c499eff8a87b150edc
+      internalID: -4290824241487534228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_66
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 123
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fbfcefd81e91d4ebf62e5fc8439dc1
+      internalID: 9072934929169352685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_67
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 129
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83c48a4c0d6fc743a56f8fc0671df94
+      internalID: -109097048132459949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_68
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 113
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5398ad7322bbb9640b6fe16c56bdbe2d
+      internalID: 8728907641303965018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_69
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 113
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f76e16ad2bf274e94913021afe9a6e
+      internalID: -4652416001042709043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_70
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 114
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f8af96b0f169a4d9c229e80777d28d
+      internalID: 1820627824668177653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_71
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 115
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3ad5976788cc945850197eb9ac5956
+      internalID: 3709562361565044539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_72
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 110
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2a1d04310938248a250238fb42a0bb
+      internalID: -2595490239435051487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_73
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 87
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b8366edfc33b34bb57f26017aaed8c
+      internalID: -229232186732865576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_74
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 107
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95325b36faf51d43a2e45b0d7fc3932
+      internalID: -3598191943272175031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_75
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 107
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1e5e97848c0674aa50f8c4769d7530
+      internalID: 2717930576990157525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_76
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 97
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788d8ff1f0ac4a94b9355e796175f219
+      internalID: 8838544645371168772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_77
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 88
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efeabc7db1ee2c4298b4950e3e9d2ba
+      internalID: 1106092782394942319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_78
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 90
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bade7ca938ed74d81b51cc28b1c4ee
+      internalID: -1499824214831342136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_79
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 95
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d29d468076f734089b4aefc47df1b2
+      internalID: 7382854591242581740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_80
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 95
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f16371d07d7a1242b50be2eceb2adfa
+      internalID: -205296712947918283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_81
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 91
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21ea76e348c4514daa01d8e918e1eac
+      internalID: -2167946155239803746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_82
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 81
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f15a1acc0472048a23615a9681e6fa
+      internalID: -8628794272209707295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_83
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 85
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c496b3a4ba6b22547bff9d747071ad8e
+      internalID: -2429482643534006041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_84
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 67
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80772f46f8d057e4cb7fe1935ed043f2
+      internalID: 4674833089935749649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_85
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 70
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62629576c55c1fa47af5f0e32b7759cf
+      internalID: -5816349845210782137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_86
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 87
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9bdc24f071fce4cac0ed3a3b87b5ac
+      internalID: -1102042558259178104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_87
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 63
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410539158ba7eff4ca7c364070fb6b2c
+      internalID: 8083335383481017525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_88
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 70
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a0ff2f477326a47a7c56081e74366f
+      internalID: 4628659890202028179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_89
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 71
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8902cd62662cb3c4ba40a8902c598b47
+      internalID: 204493302346048915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_90
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 67
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae38d6990265fd4dbff12489817069b
+      internalID: -8583500217460032249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_91
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 71
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98e92ce977b17b43a18877b344348b9
+      internalID: 6725741829609083178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_92
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 62
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c10bccab861df4db2df5931dabde85
+      internalID: 2411484347955686201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_93
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 57
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f059dd843d240e1468b658da938193b5
+      internalID: -2759059353312410490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_94
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 61
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a4c2e8d91dabe4ab3002daa96f6c04
+      internalID: 369476826340118578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_95
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 46
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179eaef5c8e2d6644b1d7df94ac44cc7
+      internalID: -1404554950695500576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_96
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 62
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f530a905b213775429b92b751e8a337b
+      internalID: 5891223942479716433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_97
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 38
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722b92ee8aced354c80f1954923a459e
+      internalID: -6412728482355214622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_98
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 31
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d844135f493381e4aba10bb224107fd7
+      internalID: 3521318491339568059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_99
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 51
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df73c053514a94b4ba0be5b0a80a8ad7
+      internalID: -3647082058165239696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_100
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 43
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eca6bd0bde6d3a42b506f75472e7594
+      internalID: -7703757262615137172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_101
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 37
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0155cd279322f8d4790e07bd095fad5c
+      internalID: -3939632651050426600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_102
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 44
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b991034dd7cf4934cbb86949efb5aefa
+      internalID: 5653066584770250240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_103
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 43
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3ff798395ca5b4299022482e604e93
+      internalID: 5673838567192638484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_104
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 45
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989dd85e47c28924ebe7f59acb88026c
+      internalID: 9217531446383695969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_105
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 42
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23115d24f6fc9c428cb85a8db3eac8b
+      internalID: -7277490045766137359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_106
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 44
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b65a01a3d8ad83499974d43229eb8ac
+      internalID: 1621762780128321463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_107
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 43
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a407ef82abdd6a646a88cadc7fb946d0
+      internalID: 5671021040949945806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_108
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 38
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9880a665a98634383a53eefbc8f7e7
+      internalID: 6811617758609364765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_109
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 17
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aecf03961cf80340b55c016618f41f1
+      internalID: 8913184088394130136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_110
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 35
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3717249a30f166841807e258170ba04f
+      internalID: 1305653613952521989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_111
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 9
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044044f74eed96d47b79a36c1a5e38ff
+      internalID: 3393318661549960280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_112
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 35
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbe16c880a21754282da0b12010ac3c
+      internalID: 2585573740824482662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_113
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 17
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1203f6e02d5ffcb45a12ec0aae0205cd
+      internalID: -1093456302202722092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_114
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 29
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79629d0d92b26a4fb331cb1cbf9d537
+      internalID: -2611242213804231120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_115
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 18
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e1abfde2677964e81912be6a26587f
+      internalID: 7846343028249130287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_116
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 15
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce469aef9dd5ce44863bcba9813319a
+      internalID: -7247605060925027469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_117
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 16
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e827e1bfa94334f409c38252fb33e8fc
+      internalID: 7344667472637796801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_118
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 19
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28769143f4c0e7a419317c77d94218df
+      internalID: 7433888087143096200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_119
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 15
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddc68605c5d78b49a80da6046ef2760
+      internalID: 8283090924967170699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_T&C_Update_ObjectClumps_120
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 15
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6fee9bec60d3944b67c79bd301acc6
+      internalID: 350806147305669606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
